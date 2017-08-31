@@ -1,0 +1,13 @@
+{
+  "name": "delpfine/yii-selectel",
+  "authors": [
+    {
+      "name": "vladimir",
+      "email": "delpfine@mail.ru"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "fhteam/selectel-storage-api": "dev-master"
+  }
+}
